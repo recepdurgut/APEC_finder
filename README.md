@@ -1,5 +1,3 @@
-
-````markdown
 # APECtyper GUI
 
 Simple graphical user interface (GUI) for running **APECtyper.sh** without using the terminal.

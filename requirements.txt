@@ -1,1 +1,4 @@
-python>=3.8
+- Python ≥ 3.8
+- Tkinter (usually included with Python)
+- APECtyper.sh (APEC Finder)
+- Bash environment
